@@ -1,2 +1,4 @@
 # treasure-hunt-entrepreneurship
-Riddles
+Riddles for 11 marked locations.
+Beginning @Rocket
+Ending @Hive
